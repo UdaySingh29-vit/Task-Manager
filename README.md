@@ -40,3 +40,22 @@ The Task Manager offers the following core functionalities:<br>
 * Send the Message by tapping the "Send" button (usually an arrow icon).
 * Reply to an incoming text by opening the conversation and typing your response in the text entry box.
 
+# Screenshots
+**For adding task in to do list**<br>
+<img width="940" height="658" alt="image" src="https://github.com/user-attachments/assets/d72df65a-d69d-46b1-a2e5-533924b2ed45" />
+<br>
+**For showing task (without doing any task)**
+ <br>
+<img width="940" height="339" alt="image" src="https://github.com/user-attachments/assets/188ee487-2b6d-4f77-a886-4eb6f4d4e602" />
+<br>
+**For removing task that is already done**
+ <br>
+<img width="940" height="265" alt="image" src="https://github.com/user-attachments/assets/b507d8c1-5b9b-4807-9ec8-bc72f428f041" />
+<br>
+**For showing list of task after doing something**
+ <br>
+<img width="940" height="336" alt="image" src="https://github.com/user-attachments/assets/f387983c-d6c1-431b-8ef4-b074224090b1" />
+<br>
+**For exiting from a program**
+ <br>
+ <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/48e75a47-8f4d-4b0c-aec4-0b33475397cc" />
